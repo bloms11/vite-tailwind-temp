@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Poppins", sans-serif;
+  transition: 0.3s ease;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-size: 56px;
+  color: black;
+  overflow: hidden;
+  font-weight: 700;
+}
+h3 {
+  font-size: 30px;
+  font-weight: 500;
+  overflow: hidden;
+}
+h4 {
+  font-size: 20px;
+  font-weight: 500;
+  overflow: hidden;
+}
+p {
+  font-size: 16px;
+  color: grey;
+}
